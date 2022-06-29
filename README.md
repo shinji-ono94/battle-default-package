@@ -1,5 +1,5 @@
 ## Task
-- [] make docker*Java env
+- [x] make docker*Java env
 - [] make gradle project
 - [] build demo test
 - [] make gradle env
